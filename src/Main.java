@@ -5,8 +5,7 @@ public class Main {
      basepizza.addExtraToppings();
      basepizza.takeAway();
      basepizza.getBill();
-    }
-}*/
+    */
         deluxpizza dp = new deluxpizza(true);
         dp.addExtraCheese();
         dp.addExtraToppings();
